@@ -1,0 +1,14 @@
+#　train and val data path as 
+# 1) directory: path/images/
+# 2) file: path/images.txt
+# 3) list: [path1/images/, path2/images/]
+
+train: C:/Users/ch/workspace/AVer/aver0912/resize/train/images
+val: C:/Users/ch/workspace/AVer/aver0912/resize/val/images
+test: C:/Users/ch/workspace/AVer/aver0912/resize/test/images
+
+# number of classes
+nc: 5
+
+# class names
+names: ['ScrewUp', 'Assemble', 'Brush', 'Sticker', 'Plug']

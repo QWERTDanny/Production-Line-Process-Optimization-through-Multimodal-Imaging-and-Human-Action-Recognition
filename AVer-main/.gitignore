@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 虛擬環境
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 模型檔案（大型檔案）
+*.pt
+*.pth
+*.pkl
+*.h5
+*.onnx
+
+# 資料檔案
+*.mp4
+*.avi
+*.mov
+*.csv
+*.json
+*.txt
+!requirements.txt
+!classes.txt
+
+# 輸出檔案
+outputs/
+temp_train/
+temp_test/
+*.png
+*.jpg
+*.jpeg
+
+# 日誌檔案
+*.log
+log-*.txt
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker
+*.dockerignore
+
+# 其他
+*.zip
+*.tar.gz
+*.rar
+
