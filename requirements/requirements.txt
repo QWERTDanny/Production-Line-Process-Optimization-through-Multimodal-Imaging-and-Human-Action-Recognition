@@ -1,7 +1,0 @@
-matplotlib
-opencv-python
-# Pillow==10.1.0
-scikit-learn==1.2.2
-seaborn
-tqdm
-numpy
