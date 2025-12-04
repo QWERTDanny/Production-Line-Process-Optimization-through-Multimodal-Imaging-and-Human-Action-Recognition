@@ -1,12 +1,16 @@
-[English] | [中文](#繁體中文)
+Production Line Optimization via Multi-Modal Imaging and Human Action Recognition / 即時路邊停車位檢測系統
+
+<div align="center">
+  <a href="#english">English</a> | <a href="#中文">中文</a>
+</div>
+
 
 ---
 
-## English
+<a name="english"></a>
 
-# Production Line Optimization via Multi-Modal Imaging and Human Action Recognition
 
-### Project Overview
+#### Project Overview
 
 This project leverages deep learning techniques, combining multi-modal image processing and human action recognition to optimize production line analysis.  
 By integrating the YOLOv7 object detection model with the SlowFast action recognition model, the system can automatically analyze operator behavior, recognize assembly actions, and assist in production flow optimization.
@@ -153,12 +157,9 @@ The system achieves good performance on the action recognition task:
 - **Confusion Matrix**: Provides detailed analysis of per-class recognition performance.
 
 ---
+<a name="中文"></a>
 
-## 繁體中文
-
-# 基於多模態影像及人體動作辨識技術優化產線流程分析
-
-### 專題簡介
+#### 專題簡介
 
 本專題旨在透過深度學習技術，結合多模態影像處理與人體動作辨識，優化產線流程分析。系統整合 YOLOv7 物件偵測模型與 SlowFast 動作識別模型，實現自動化的操作員動作分析、組裝動作識別與產線流程優化。
 
